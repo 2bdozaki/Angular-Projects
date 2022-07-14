@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+
+.right,.left{
+    width: 50%;
+    height: 5px;
+    background-color: rgb(0, 0, 0);
+    display: block;
+}
+
+:root{
+    background-color: #1ABC9C;
+}
+
+.primary-color{
+    background-color: #1ABC9C;
+    border-color: #1ABC9C ;
+}

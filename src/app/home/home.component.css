@@ -1,0 +1,14 @@
+.home{
+    background-color: #1ABC9C;
+}
+
+.star:after {
+    content: '';
+    width: 100%;
+    border-bottom: solid 3px rgb(0, 0, 0);
+    position: absolute;
+    left: 0;
+    top: 50%;
+    z-index: 1;
+
+}
